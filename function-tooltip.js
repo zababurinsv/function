@@ -1,4 +1,4 @@
-
+<script>
 var statusColors = $jsonStatusColorMultiple;
 var status = $jsonStatus
 let obj ={}
@@ -48,3 +48,4 @@ document.onmouseout = function(e) {
         }
     }
 }
+</script>
