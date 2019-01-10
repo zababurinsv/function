@@ -1,9 +1,10 @@
 # monkey-function
-всплывающие подсказки
+
+function-tooltip.js
 
 ![getToolTip](images/function-tooltip.png)
 
 
-Прилипание меню к верху страницы
+function-menu.js
 
 ![getToolTip](images/function-menu.png)
