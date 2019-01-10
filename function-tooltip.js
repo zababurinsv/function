@@ -17,7 +17,6 @@ function getObject(type){
                 obj['lacertaAccess'] = lacertaAccess
             }
         }
-
         obj['viewTooltip'] = null
         document.onmouseover = function(e) {
             const hex2rgba = (hex, alpha = 1) => {
